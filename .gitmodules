@@ -10,3 +10,6 @@
 [submodule "payment-ms"]
 	path = payment-ms
 	url = git@github.com:Nestjs-Microservices-Landa/payment-ms.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = git@github.com:Nestjs-Microservices-Landa/auth-ms.git
